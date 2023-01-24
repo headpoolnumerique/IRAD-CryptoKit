@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="decentralized_autonomous_organization" format="2">
+  <advance width="1200"/>
+  <unicode hex="E02A"/>
+  <outline>
+    <contour>
+      <point x="417" y="537.65" type="line"/>
+      <point x="805" y="537.65" type="line"/>
+      <point x="827.35" y="695.4" type="line"/>
+      <point x="800" y="706.1" type="line"/>
+      <point x="686" y="610.15" type="line"/>
+      <point x="619" y="740.25" type="line"/>
+      <point x="591" y="740.25" type="line"/>
+      <point x="528" y="610.15" type="line"/>
+      <point x="422" y="706.1" type="line"/>
+      <point x="393.3" y="695.35" type="line"/>
+    </contour>
+    <contour>
+      <point x="1006.75" y="147.9" type="line" name="hr00"/>
+      <point x="1156.55" y="297.75" type="line"/>
+      <point x="1113.85" y="340.45" type="line"/>
+      <point x="1071.7" y="298.25" type="line"/>
+      <point x="1034.3" y="253.8" type="line"/>
+      <point x="1031.65" y="254.7" type="line"/>
+      <point x="1037" y="340.1" type="line"/>
+      <point x="1037" y="479.65" type="line"/>
+      <point x="191.6" y="479.65" type="line"/>
+      <point x="191.6" y="340.1" type="line"/>
+      <point x="196.95" y="254.7" type="line"/>
+      <point x="194.25" y="253.8" type="line"/>
+      <point x="156.9" y="298.25" type="line"/>
+      <point x="114.7" y="340.45" type="line"/>
+      <point x="72" y="297.75" type="line"/>
+      <point x="221.85" y="147.9" type="line" name="hr00.1"/>
+      <point x="371.7" y="297.75" type="line"/>
+      <point x="328.95" y="340.45" type="line"/>
+      <point x="286.8" y="298.25" type="line"/>
+      <point x="249.45" y="253.8" type="line"/>
+      <point x="246.75" y="254.7" type="line"/>
+      <point x="252.1" y="340.1" type="line"/>
+      <point x="252.1" y="423" type="line"/>
+      <point x="580.9" y="423" type="line"/>
+      <point x="580.9" y="340.1" type="line"/>
+      <point x="586.2" y="254.7" type="line"/>
+      <point x="583.55" y="253.8" type="line"/>
+      <point x="546.2" y="298.25" type="line"/>
+      <point x="504" y="340.45" type="line"/>
+      <point x="461.3" y="297.75" type="line"/>
+      <point x="611.15" y="147.9" type="line" name="hr00.2"/>
+      <point x="760.95" y="297.75" type="line"/>
+      <point x="718.25" y="340.45" type="line"/>
+      <point x="676.1" y="298.25" type="line"/>
+      <point x="638.7" y="253.8" type="line"/>
+      <point x="636.05" y="254.7" type="line"/>
+      <point x="641.4" y="340.1" type="line"/>
+      <point x="641.4" y="423" type="line"/>
+      <point x="976.5" y="423" type="line"/>
+      <point x="976.5" y="340.1" type="line"/>
+      <point x="981.8" y="254.7" type="line"/>
+      <point x="979.15" y="253.8" type="line"/>
+      <point x="941.8" y="298.25" type="line"/>
+      <point x="899.6" y="340.45" type="line"/>
+      <point x="856.9" y="297.75" type="line"/>
+    </contour>
+    <contour>
+      <point x="563.5" y="73" type="line"/>
+      <point x="392.35" y="73" type="line"/>
+      <point x="392.35" y="0.849998" type="line"/>
+      <point x="268.15" y="0.849998" type="line"/>
+      <point x="268.15" y="82.7" type="line"/>
+      <point x="73.1" y="82.7" type="line"/>
+      <point x="73.1" y="-121.35" type="line"/>
+      <point x="268.15" y="-121.35" type="line"/>
+      <point x="268.15" y="-39.15" type="line"/>
+      <point x="392.35" y="-39.15" type="line"/>
+      <point x="392.35" y="-106.1" type="line"/>
+      <point x="563.5" y="-106.1" type="line"/>
+      <point x="563.5" y="-39.15" type="line"/>
+      <point x="679.55" y="-39.15" type="line"/>
+      <point x="679.55" y="-109.15" type="line"/>
+      <point x="850.75" y="-109.15" type="line"/>
+      <point x="850.75" y="-38.7" type="line"/>
+      <point x="960.1" y="-38.85" type="line"/>
+      <point x="960.1" y="-108.1" type="line"/>
+      <point x="1131.25" y="-108.1" type="line"/>
+      <point x="1131.25" y="71" type="line"/>
+      <point x="960.1" y="71" type="line"/>
+      <point x="960.1" y="1.15" type="line"/>
+      <point x="850.75" y="1.3" type="line"/>
+      <point x="850.75" y="69.95" type="line"/>
+      <point x="679.55" y="69.95" type="line"/>
+      <point x="679.55" y="0.850005" type="line"/>
+      <point x="563.5" y="0.850005" type="line"/>
+    </contour>
+    <contour>
+      <point x="1090.5" y="29.25" type="line"/>
+      <point x="1090.5" y="-68.15" type="line"/>
+      <point x="1000.2" y="-68.15" type="line"/>
+      <point x="1000.2" y="29.25" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="611" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

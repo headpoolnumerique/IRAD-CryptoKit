@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dndblhorzsng" format="2">
+  <advance width="1200"/>
+  <unicode hex="2565"/>
+  <outline>
+    <contour>
+      <point x="-34" y="266" type="line" name="hr00"/>
+      <point x="498" y="266" type="line"/>
+      <point x="498" y="-350" type="line"/>
+      <point x="566" y="-350" type="line"/>
+      <point x="566" y="266" type="line"/>
+      <point x="634" y="266" type="line"/>
+      <point x="634" y="-350" type="line"/>
+      <point x="702" y="-350" type="line"/>
+      <point x="702" y="266" type="line"/>
+      <point x="1234" y="266" type="line"/>
+      <point x="1234" y="334" type="line"/>
+      <point x="-34" y="334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alpha" format="2">
+  <advance width="1200"/>
+  <unicode hex="0391"/>
+  <outline>
+    <component base="axie_infinity_protocol"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A%</string>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

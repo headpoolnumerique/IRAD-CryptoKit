@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowrightarrowleft" format="2">
+  <advance width="1200"/>
+  <unicode hex="21C4"/>
+  <outline>
+    <contour>
+      <point x="1099.8" y="451.195" type="line" name="hr00"/>
+      <point x="892.8" y="658.195" type="line"/>
+      <point x="843.8" y="610.195" type="line"/>
+      <point x="930.8" y="524.195" type="line"/>
+      <point x="980.8" y="482.195" type="line"/>
+      <point x="979.8" y="479.195" type="line"/>
+      <point x="882.8" y="485.195" type="line"/>
+      <point x="240.25" y="485.195" type="line"/>
+      <point x="240.25" y="417.195" type="line"/>
+      <point x="882.8" y="417.195" type="line"/>
+      <point x="979.8" y="423.195" type="line"/>
+      <point x="980.8" y="420.195" type="line"/>
+      <point x="930.8" y="378.195" type="line"/>
+      <point x="843.8" y="292.195" type="line"/>
+      <point x="892.8" y="244.195" type="line"/>
+    </contour>
+    <contour>
+      <point x="100.55" y="145.945" type="line" name="hr00.1"/>
+      <point x="307.55" y="-61.0546" type="line"/>
+      <point x="356.55" y="-13.0546" type="line"/>
+      <point x="269.55" y="72.9454" type="line"/>
+      <point x="219.55" y="114.945" type="line"/>
+      <point x="220.55" y="117.945" type="line"/>
+      <point x="317.55" y="111.945" type="line"/>
+      <point x="960.05" y="111.945" type="line"/>
+      <point x="960.05" y="179.945" type="line"/>
+      <point x="317.55" y="179.945" type="line"/>
+      <point x="220.55" y="173.945" type="line"/>
+      <point x="219.55" y="176.945" type="line"/>
+      <point x="269.55" y="218.945" type="line"/>
+      <point x="356.55" y="304.945" type="line"/>
+      <point x="307.55" y="352.945" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="451.245"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>
