@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="heavyquaddashhorz" format="2">
+  <advance width="1200"/>
+  <unicode hex="2509"/>
+  <outline>
+    <contour>
+      <point x="268.15" y="232" type="line" name="hr00"/>
+      <point x="268.15" y="368" type="line"/>
+      <point x="452.15" y="368" type="line"/>
+      <point x="452.15" y="232" type="line"/>
+    </contour>
+    <contour>
+      <point x="508.15" y="232" type="line"/>
+      <point x="508.15" y="368" type="line"/>
+      <point x="692.15" y="368" type="line"/>
+      <point x="692.15" y="232" type="line"/>
+    </contour>
+    <contour>
+      <point x="748.2" y="232" type="line"/>
+      <point x="748.2" y="368" type="line"/>
+      <point x="932.2" y="368" type="line"/>
+      <point x="932.2" y="232" type="line"/>
+    </contour>
+    <contour>
+      <point x="988.2" y="232" type="line"/>
+      <point x="988.2" y="368" type="line"/>
+      <point x="1172.2" y="368" type="line"/>
+      <point x="1172.2" y="232" type="line"/>
+    </contour>
+    <contour>
+      <point x="28" y="232" type="line"/>
+      <point x="28" y="368" type="line"/>
+      <point x="212" y="368" type="line"/>
+      <point x="212" y="232" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="300" y="0"/>
+  <guideline angle="90" x="900" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>
