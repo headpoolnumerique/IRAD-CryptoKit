@@ -10,9 +10,9 @@ Website: www.cryptokit.ch
 
 ## Specimen
 
-![CryptoKit_-v1.000-specimen-001](https://github.com/headpoolnumerique/IRAD-CryptoKit/master/documentation/images/cryptokit_-v1.000-specimen-001.jpg)
-![CryptoKit_-v1.000-specimen-003](https://github.com/headpoolnumerique/IRAD-CryptoKit/master/documentation/images/cryptokit_-v1.000-specimen-003.jpg)
-![CryptoKit_-v1.000-specimen-005](https://github.com/headpoolnumerique/IRAD-CryptoKit/master/documentation/images/cryptokit_-v1.000-specimen-005.jpg)
+![cryptokit_-v1.000-specimen-001](https://github.com/headpoolnumerique/IRAD-CryptoKit/master/documentation/images/cryptokit_-v1.000-specimen-001.jpg)
+![cryptokit_-v1.000-specimen-003](https://github.com/headpoolnumerique/IRAD-CryptoKit/master/documentation/images/cryptokit_-v1.000-specimen-003.jpg)
+![cryptokit_-v1.000-specimen-005](https://github.com/headpoolnumerique/IRAD-CryptoKit/master/documentation/images/cryptokit_-v1.000-specimen-005.jpg)
 
 ## License
 
