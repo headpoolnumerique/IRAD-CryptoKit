@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lighttrpldashhorz" format="2">
+  <advance width="1200"/>
+  <unicode hex="2504"/>
+  <outline>
+    <contour>
+      <point x="48.8" y="266" type="line" name="hr00"/>
+      <point x="250" y="266" type="line"/>
+      <point x="250" y="334" type="line"/>
+      <point x="48.8" y="334" type="line"/>
+    </contour>
+    <contour>
+      <point x="349.05" y="266" type="line"/>
+      <point x="550.2" y="266" type="line"/>
+      <point x="550.2" y="334" type="line"/>
+      <point x="349.05" y="334" type="line"/>
+    </contour>
+    <contour>
+      <point x="649.3" y="266" type="line"/>
+      <point x="850.45" y="266" type="line"/>
+      <point x="850.45" y="334" type="line"/>
+      <point x="649.3" y="334" type="line"/>
+    </contour>
+    <contour>
+      <point x="949.55" y="266" type="line"/>
+      <point x="1151.7" y="266" type="line"/>
+      <point x="1151.7" y="334" type="line"/>
+      <point x="949.55" y="334" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="300" y="0"/>
+  <guideline angle="90" x="900" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>
