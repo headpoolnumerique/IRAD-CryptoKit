@@ -1,0 +1,1 @@
+CryptoKit is a trademark of Océane Juvin, Anthony Masure & Guillaume Helleu.

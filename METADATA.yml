@@ -1,0 +1,23 @@
+---
+unified font repository version: "0.3"
+unified font repository url: https://github.com/raphaelbastide/Unified-Font-Repository/
+typeface family:
+  name: CryptoKit
+  tags:
+  - pictograms
+  - symbols
+  - IBM Plex
+  - monospace
+  - cryptocurrencies
+  - blockchain
+  repository url: https://github.com/headpoolnumerique/IRAD-CryptoKit/
+  project url: https://cryptokit.ch
+  tools:
+  - FontLab 7
+  - FontLab 8
+  - Indesign
+  similar fonts:
+  - IBM Plex Mono
+  sample text:
+  - en_us: µüÚiûEcQxÀ#1:3%][{}ÎΦτ€*@
+...
