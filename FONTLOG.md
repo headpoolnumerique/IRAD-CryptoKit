@@ -1,4 +1,4 @@
-FONTLOG for Demo
+FONTLOG for CryptoKit
 -------------------
 
 This file provides detailed information on the CryptoKit font software.
