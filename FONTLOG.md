@@ -9,7 +9,9 @@ and any derivative works.
 Basic Font Information
 --------------------------
 
-CryptoKit is a monospace font of pictograms conceived to explain blockchain technologies and web3 ecosystem. The drawing is based on the IBM Plex family. 
+CryptoKit is a monospace font of pictograms conceived to explain blockchain technologies and web3 ecosystem. The drawing is based on the IBM Plex family.
+
+Type Design: Océane Juvin
 
 SIL Open Font License (OFL)
 
