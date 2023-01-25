@@ -2,6 +2,8 @@
 
 [CryptoKit] is a monospace font of pictograms conceived to explain blockchain technologies and web3 ecosystem. The drawing is based on the IBM Plex family. 
 
+Type Design: Océane Juvin
+
 SIL Open Font License (OFL)
 
 Part of a research project led by Anthony Masure at HEAD – Genève and funded by HES-SO Genève. Team: Guillaume Helleu, Océane Juvin, Chloé Michel, E+K (Élise Gay and Kévin Donnot). 
