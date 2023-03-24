@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="crossmark" format="2">
+  <advance width="1200"/>
+  <unicode hex="274C"/>
+  <outline>
+    <contour>
+      <point x="410.65" y="-32.65" type="line" name="hr00"/>
+      <point x="596.65" y="238.35" type="line"/>
+      <point x="784.65" y="-32.65" type="line"/>
+      <point x="847.65" y="7.35" type="line"/>
+      <point x="643.65" y="299.35" type="line"/>
+      <point x="847.65" y="595.35" type="line"/>
+      <point x="784.65" y="635.35" type="line"/>
+      <point x="598.65" y="364.35" type="line"/>
+      <point x="410.65" y="635.35" type="line"/>
+      <point x="347.65" y="595.35" type="line"/>
+      <point x="551.65" y="303.35" type="line"/>
+      <point x="347.65" y="7.35" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>
